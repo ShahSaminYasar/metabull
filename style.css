@@ -134,10 +134,12 @@ header a {
   color: var(--text);
   font-size: 22px;
   display: none;
+  cursor: pointer;
 }
 
 .nav_open_btn {
   display: none;
+  cursor: pointer;
 }
 
 /* Hero */
